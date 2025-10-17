@@ -151,10 +151,10 @@ Add your backend server URL in .ENV:
 
 ```env
 # Backend API Configuration
-REACT_APP_BACKEND_URL=http://localhost:4000
+REACT_APP_BACKEND_URL=https://connect4-back-4.onrender.com
 
 # Socket.IO Configuration (optional override)
-REACT_APP_SOCKET_URL=http://localhost:4000
+REACT_APP_SOCKET_URL=https://connect4-back-4.onrender.com/
 
 # Environment
 NODE_ENV=development
@@ -503,3 +503,4 @@ Built with ❤️ using React and Socket.IO.
 ---
 
 **[⬆ Back to Top](#connect-4-frontend)**
+
