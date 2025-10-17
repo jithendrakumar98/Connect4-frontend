@@ -1,0 +1,30 @@
+.waiting-room {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+  background-color: #f5f5f5;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.waiting-room h2 {
+  color: #0066cc;
+  margin-bottom: 20px;
+}
+
+.waiting-room p {
+  margin: 10px 0;
+  font-size: 18px;
+}
+
+.room-code {
+  font-weight: bold;
+  font-size: 24px;
+  color: #333;
+  background: #e0e0e0;
+  padding: 10px;
+  border-radius: 4px;
+  display: inline-block;
+  margin: 10px 0;
+}

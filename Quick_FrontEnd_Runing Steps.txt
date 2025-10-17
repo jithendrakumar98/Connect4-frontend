@@ -1,0 +1,13 @@
+1.unzip and navigate to client folder.
+
+2.Find the frontend-requirements.txt file. 
+install all the libraries mentioned in file with npm. Eg: npm i react.
+
+
+3.Next cmd:
+	npm start
+
+4.find the .env file for the backend deployed Link and also in socket.js in utils folder.
+
+
+5.To test with local backend replace with http://localhost:4000 in both .env and util/socket.jk files.
