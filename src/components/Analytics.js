@@ -38,6 +38,11 @@ export default function Analytics() {
     <div className="analytics-container">
       <h2>Game Analytics</h2>
       
+      <div className="kafka-notice">
+        <strong>⚠️ Note:</strong> Kafka streaming service is currently disabled due to lack of free deployment options. 
+        The Kafka integration code remains in the codebase (commented out) and can be re-enabled when a suitable hosting solution is available.
+      </div>
+
       <div className="analytics-grid">
         <div className="analytics-card">
           <h3>Total Games</h3>
